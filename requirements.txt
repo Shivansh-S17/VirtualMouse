@@ -3,3 +3,9 @@ Python 3.x
 MediaPipe
 OpenCV
 PyAutoGUI
+
+# Volume Control
+Python 3.x
+OpenCV
+MediaPipe
+Pycaw
